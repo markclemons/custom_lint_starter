@@ -29,4 +29,4 @@ vars:
     type: string
     description: Your name
     default: Dash
-    prompt: What is your name?
+    prompt: Name your custom_lint extension?

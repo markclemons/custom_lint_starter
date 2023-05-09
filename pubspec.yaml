@@ -1,0 +1,17 @@
+name: Custom Lint Starter
+description: Custom lint extension package
+version: 1.0.0
+
+environment:
+  sdk: '>=2.19.2 <3.0.0'
+
+dev_dependencies: 
+  lints: 2.0.0
+  test: 1.24.2
+  very_good_analysis: ^4.0.0
+dependencies:
+  analyzer: ^5.4.0
+  analyzer_plugin: ^0.11.2
+  custom_lint_builder: ^0.2.2
+  
+
